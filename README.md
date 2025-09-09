@@ -24,4 +24,19 @@ En desarrollo (última actualización: 07/09/25)
 
 ## Capturas
 
-## 
+## Login de usuario
+
+## Login
+![Login](capturas/capturaBiblio1.png)
+
+## Busqueda de libros
+![Busqueda de libros](capturas/capturaBiblio2.png)
+
+## Eliminar los registros
+![Eliminar los registros](capturas/capturaBiblio3.png)
+
+## Resultados de la consulta
+![Resultados de la consulta](capturas/capturaBiblio4.png)
+
+## Lista de registros a eliminar
+![Lista de registros a eliminar](capturas/capturaBiblio5.png)
